@@ -6,4 +6,4 @@ Creating a custom screen.
 
 ![Bike demo](bike-demo.gif)
 
-Very well presented [here](https://dribbble.com/shots/24302584-Bicycle-App) by the Codzgarage Infotech Pvt Ltd team
+Very well presented [here](https://dribbble.com/shots/24302584-Bicycle-App) by Codzgarage Infotech Pvt Ltd team

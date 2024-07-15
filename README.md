@@ -1,1 +1,1 @@
-# pedalpro--visual-demo-ios
+# pedalpro-visual-demo-ios
